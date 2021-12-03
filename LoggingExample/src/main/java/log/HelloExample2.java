@@ -15,6 +15,7 @@ public class HelloExample2{
 		}catch(ArithmeticException ex){
 			logger.error("Sorry, something wrong!", ex);
 			logger.error("Sorry, something wrong!", ex);
+			logger.error("Sorry, something wrong!", ex);
 		}
 		
 		
