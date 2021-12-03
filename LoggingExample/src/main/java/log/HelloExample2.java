@@ -14,6 +14,7 @@ public class HelloExample2{
 			obj.divide();
 		}catch(ArithmeticException ex){
 			logger.error("Sorry, something wrong!", ex);
+			logger.error("Sorry, something wrong!", ex);
 		}
 		
 		
